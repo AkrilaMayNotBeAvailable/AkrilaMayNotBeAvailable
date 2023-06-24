@@ -1,6 +1,6 @@
 Hello there! Glad to see you here!
 I go by the pseudonym of Akrila. Currently I'm a student at Federal University of Rio Grande do Sul in Computer Science course for Bachelor Degree.
-
+<hr>
 Current interest topics:
 <ul>
   <li> Image Processing using Python </li>
