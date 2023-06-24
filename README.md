@@ -1,9 +1,17 @@
-- 👋 Hello! I go by the pseudonym of Akrila. I'm a first semester student at Federal University of Rio Grande do Sul.
-- 👀 Currently interested in full-stack development of web applications and software development.
-- 🌱 Learning C, Javascript and HTML/CSS.
-- 💞️ Open for projects like: translations from English to Portuguese(BR), game development, website development, always excited to new ideas!
-- 📫 Hoo knows... 
-- Whatsapp (51) 98616 6454
+Hello there! Glad to see you here!
+I go by the pseudonym of Akrila. Currently I'm a student at Federal University of Rio Grande do Sul in Computer Science course for Bachelor Degree.
+
+Current interest topics:
+<ul>
+  <li> Image Processing using Python </li>
+  <li> Game Development as programmer </li>
+  <li> Low Level optimizations using C and C++ languages </li>
+  <li> Game Design as Pixel Artist </li>
+  <li> Translations from English to Portuguese(BR) </li>
+  <li> Website full stack development </li>
+</ul>
+
+hoo knows? Most topics on programming environment burn my passion brighter! Feel free to contact me!
 
 <!---
 AkrilaMayNotBeAvailable/AkrilaMayNotBeAvailable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
