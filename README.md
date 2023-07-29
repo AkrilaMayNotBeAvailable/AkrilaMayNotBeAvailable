@@ -11,7 +11,7 @@ Current interest topics:
   <li> Website full stack development </li>
 </ul>
 
-hoo knows? Most topics on programming environment burn my passion brighter! Feel free to contact me!
+Hoo knows what else? Feel free to contact me!
 
 <!---
 AkrilaMayNotBeAvailable/AkrilaMayNotBeAvailable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
