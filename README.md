@@ -13,8 +13,10 @@ Current interest topics:
 
 Hoo knows what else? Feel free to contact me!
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkrilaMayNotBeAvailable)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkrilaMayNotBeAvailable&show_icons=true&count_private=true&theme=merko" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkrilaMayNotBeAvailable&layout=compact&theme=merko&hide=css,html,jupyter%20notebook" height = "165">
+</a>
 <!---
 AkrilaMayNotBeAvailable/AkrilaMayNotBeAvailable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
