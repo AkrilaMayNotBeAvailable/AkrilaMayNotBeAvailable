@@ -14,8 +14,8 @@ Current interest topics:
 Hoo knows what else? Feel free to contact me!
 <hr>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkrilaMayNotBeAvailable&show_icons=true&count_private=true&theme=merko" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkrilaMayNotBeAvailable&layout=compact&theme=merko&hide=css,html,jupyter%20notebook" height = "165">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkrilaMayNotBeAvailable&show_icons=true&count_private=true&theme=midnight-purple" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkrilaMayNotBeAvailable&layout=compact&theme=midnight-purple&hide=css,html,jupyter%20notebook" height = "165">
 </a>
 <!---
 AkrilaMayNotBeAvailable/AkrilaMayNotBeAvailable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
