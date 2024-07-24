@@ -16,7 +16,7 @@ Hoo knows what else? Feel free to contact me!
 <a href="#">
   <img height=165 width=49% src="https://github-readme-stats.vercel.app/api?username=AkrilaMayNotBeAvailable&show_icons=true&count_private=true&theme=omni">
   <img height=163 width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkrilaMayNotBeAvailable&layout=compact&theme=omni">
-  <img height=600 width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=Akrila&theme=omni">
+  <img height=300 width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=Akrila&theme=omni">
 </a>
 <!---
 AkrilaMayNotBeAvailable/AkrilaMayNotBeAvailable is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
